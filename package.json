@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dnanmeanwd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Calculate the arithmetic mean of a double-precision floating-point strided array, using Welford's algorithm and ignoring NaN values.",
   "license": "Apache-2.0",
   "author": {
