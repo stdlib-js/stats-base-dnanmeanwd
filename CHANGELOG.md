@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`29f0cf3`](https://github.com/stdlib-js/stdlib/commit/29f0cf37d8c59629455eead33c36630c2f323750) - **test:** fix arguments _(by Athan Reines)_
+-   [`43b8310`](https://github.com/stdlib-js/stdlib/commit/43b83109c3ead4e4fd66cf41e7608b36cbd08871) - **docs:** fix examples _(by Athan Reines)_
 -   [`2832442`](https://github.com/stdlib-js/stdlib/commit/28324425c1a630bd52cccc75d4f4a2a72bbc9e01) - **feat:** add C `ndarray` interface and refactor implementation for `stats/base/dnanmeanwd` [(#4251)](https://github.com/stdlib-js/stdlib/pull/4251) _(by Neeraj Pathak, Athan Reines)_
 -   [`70dde47`](https://github.com/stdlib-js/stdlib/commit/70dde4759fdc94408dc4ee058cd83e6edf6ebda7) - **refactor:** update `stats/base/dnanmeanwd` native addon from C++ to C  [(#4157)](https://github.com/stdlib-js/stdlib/pull/4157) _(by Neeraj Pathak)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
