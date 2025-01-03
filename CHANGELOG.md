@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b046648`](https://github.com/stdlib-js/stdlib/commit/b046648de50ab6f4d3af98645313df1a067cd5ff) - **chore:** remove unused header in `stats/base/dnanmeanwd` [(#4497)](https://github.com/stdlib-js/stdlib/pull/4497) _(by Aayush Khanna)_
 -   [`29f0cf3`](https://github.com/stdlib-js/stdlib/commit/29f0cf37d8c59629455eead33c36630c2f323750) - **test:** fix arguments _(by Athan Reines)_
 -   [`43b8310`](https://github.com/stdlib-js/stdlib/commit/43b83109c3ead4e4fd66cf41e7608b36cbd08871) - **docs:** fix examples _(by Athan Reines)_
 -   [`2832442`](https://github.com/stdlib-js/stdlib/commit/28324425c1a630bd52cccc75d4f4a2a72bbc9e01) - **feat:** add C `ndarray` interface and refactor implementation for `stats/base/dnanmeanwd` [(#4251)](https://github.com/stdlib-js/stdlib/pull/4251) _(by Neeraj Pathak, Athan Reines)_
@@ -41,8 +42,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Neeraj Pathak
 -   Philipp Burckhardt
