@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-08)
+## Unreleased (2025-02-05)
 
 <section class="features">
 
@@ -32,6 +32,8 @@
 
 <details>
 
+-   [`93c884d`](https://github.com/stdlib-js/stdlib/commit/93c884d677c3c79c24a451a0f1badf45d8b6ee16) - **bench:** update `NaN` generation in `stats/base/*` [(#5044)](https://github.com/stdlib-js/stdlib/pull/5044) _(by Aayush Khanna)_
+-   [`74c5fe1`](https://github.com/stdlib-js/stdlib/commit/74c5fe174a5fb4cd5fdd54abf6697d5e94c1ff87) - **docs:** update examples of `stats/base/dnanmeanwd` to show proper handling of `NaN` elements [(#4994)](https://github.com/stdlib-js/stdlib/pull/4994) _(by Aayush Khanna)_
 -   [`7e63aad`](https://github.com/stdlib-js/stdlib/commit/7e63aad8c0b42330b0933973bddea8d1c5e84862) - **fix:** wrap function calls in `API_SUFFIX` in native addons [(#4646)](https://github.com/stdlib-js/stdlib/pull/4646) _(by Aayush Khanna)_
 -   [`b046648`](https://github.com/stdlib-js/stdlib/commit/b046648de50ab6f4d3af98645313df1a067cd5ff) - **chore:** remove unused header in `stats/base/dnanmeanwd` [(#4497)](https://github.com/stdlib-js/stdlib/pull/4497) _(by Aayush Khanna)_
 -   [`29f0cf3`](https://github.com/stdlib-js/stdlib/commit/29f0cf37d8c59629455eead33c36630c2f323750) - **test:** fix arguments _(by Athan Reines)_
